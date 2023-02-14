@@ -1,3 +1,8 @@
+# PLUGIN RELOCATED HERE: https://github.com/bmlt-enabled/bmlt-workflow
+
+
+
+
 # Wordpress-BMLT-workflow (WBW)
 
 ## 0.3 Beta Known Issues
@@ -7,7 +12,7 @@
 - Quickedit/approve does not update the BMLT email address if the user selects 'set my email to the contact email'
 - Not tested on wordpress multisite 
 
-For any other issues you find - please raise an issue here: https://github.com/nigel-bmlt/wordpress-bmlt-workflow/issues and/or ping me on BMLT slack
+For any other issues you find - please raise an issue here: https://github.com/bmlt-enabled/bmlt-workflow/issues and/or ping me on BMLT slack
 
 ## Background
 This plugin was developed for NA Australian Region to support automation of meeting adds/changes/deletes.
